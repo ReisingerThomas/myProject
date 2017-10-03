@@ -1,6 +1,0 @@
-﻿  RandomGen.cpp
-c:\users\psycorax\dropbox\privat\hsd4\pss4\20170406_paintrobots\randomgen.cpp(9): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
-  PaintRobots.cpp
-  Generating Code...
-  20170406_PaintRobots.vcxproj -> C:\Users\Psycorax\Dropbox\Privat\HSD4\PSS4\20170406_PaintRobots\Debug\20170406_PaintRobots.exe
-  20170406_PaintRobots.vcxproj -> C:\Users\Psycorax\Dropbox\Privat\HSD4\PSS4\20170406_PaintRobots\Debug\20170406_PaintRobots.pdb (Full PDB)
