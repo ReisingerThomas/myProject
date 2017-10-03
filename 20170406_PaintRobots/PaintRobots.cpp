@@ -42,7 +42,7 @@ DWORD WINAPI PaintRobot(void * param) {
 		try {
 
 			ostringstream out;
-			out << "Robot # " << idx << " paint with colour " << gPot[idx];
+			out << "Robot # " << idx << " paint with color " << gPot[idx];
 			PrintSync(out.str(), cout);
 
 			// simulate painting...
